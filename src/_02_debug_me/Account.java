@@ -7,7 +7,7 @@ package _02_debug_me;
  *
  * This Account class represents bank accounts that stores money for an owner.
  *
- * Author: (put your name here)
+ * Author: (put your name here) twitch.tv/tsm_daequan
  */
 class Account
 {
